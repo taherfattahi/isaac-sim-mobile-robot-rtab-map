@@ -48,7 +48,7 @@ source install/setup.bash
 
 ## Usage
 
-1. **Isaac Simulation**
+1. **Isaac Simulation:**
 Open the <b>ros2-turtlebot.usd</b> file located in the isaac-sim folder.
 Or run this command:
 ```py
@@ -60,7 +60,7 @@ ISAACSIM_PYTHON script/run-sim.py
 ros2 launch isaac-sim-mobile-robot-rtab-map rviz.launch.py
 ```
 
-3. **RTAB-Map**
+3. **RTAB-Map:**
 ```sh
 ros2 launch isaac-sim-mobile-robot-rtab-map rtab-map-scan.launch.py
 ```
