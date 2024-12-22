@@ -1,6 +1,6 @@
 # Mapping, Navigation, and Simulation with Nvidia Isaac Sim, RTAB-Map, Navigation2 and RViz2 
 
-Integrate RTAB-Map for SLAM, the Navigation2 stack for autonomous navigation, RViz2 for real-time visualization, and NVIDIA Isaac Sim for simulations.
+Integration of NVIDIA Isaac Sim, RTAB-Map, Navigation2, and RViz2 for autonomous navigation 🤖
 
 ## Demo Video
 [![IMAGE ALT TEXT HERE](images/image2.png)](https://youtu.be/NRXYgfIl9uc)
