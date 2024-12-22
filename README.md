@@ -9,7 +9,7 @@ Integrate RTAB-Map for SLAM, the Navigation2 stack for autonomous navigation, RV
 ## Key Components
 
 1. **Isaac Sim**
-- NVIDIA's Isaac Sim provides high-fidelity simulation environments to test and refine robotic applications in realistic virtual scenarios.
+- NVIDIA's Isaac Sim provides simulation environments to test and refine robotic applications in realistic virtual scenarios.
 - Supports physics-based simulation, synthetic data generation, and ROS2 integration for end-to-end testing of navigation and perception systems.
   
 2. **RTAB-Map**
