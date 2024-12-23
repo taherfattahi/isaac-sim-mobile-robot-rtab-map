@@ -27,6 +27,7 @@ Facilitates debugging and system diagnostics with an intuitive GUI.
 
 ## Dependencies and Setup
 
+-  Install Isaac Sim - [Read here](https://docs.omniverse.nvidia.com/isaacsim/latest/)
 -  Install ROS 2 Humble - [Read here](https://docs.ros.org/en/humble/Installation.html)
 -  Create Workspace - [Read here](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
 - RTAB-Map [Read here](https://github.com/introlab/rtabmap_ros/tree/ros2#rtabmap_ros)
