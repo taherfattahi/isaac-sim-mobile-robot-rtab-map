@@ -3,7 +3,7 @@
 Integration of NVIDIA Isaac Sim, RTAB-Map, Navigation2, and RViz2 for autonomous navigation 🤖
 
 ## Demo Video
-[![IMAGE ALT TEXT HERE](images/image2.png)](https://youtu.be/NRXYgfIl9uc)
+[![IMAGE](images/image2.png)](https://youtu.be/NRXYgfIl9uc)
 
 
 ## Key Components
